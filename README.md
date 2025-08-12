@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta-02&" alt="Gupta-02" /></p>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center"></h1>
 
 ###
 
@@ -73,4 +73,4 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-###
+
