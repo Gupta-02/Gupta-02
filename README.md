@@ -1,5 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://Gupta-02.io)
-<h1 align="center">Hi 👋, I'm Prathyun Gupta</h1>
+﻿<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />&nbsp; -->
+<!-- <h1 align="center">
+  Hello <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, 
+  I am Prathyun Gupta
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="40" style="vertical-align: middle;" />
+</h1> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Prathyun+Gupta+%F0%9F%91%8B;Web+Developer+%3C%2F%3E;Tech+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center">A passinoate Software Developer</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
