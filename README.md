@@ -10,7 +10,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center">A passinoate Software Developer</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gupta-02&label=Profile%20views&color=0e75b6&style=flat" alt="Gupta-02" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://guptaportfolio.vercel.app/](https://guptaportfolio.vercel.app/)
@@ -59,7 +58,12 @@ GitHub Stats
   </table>
 </p>
 
-###
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta-02&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -105,3 +109,13 @@ GitHub Stats
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gupta-02&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0080FF,100:0040FF&height=120&section=footer&animation=fadeIn" />
+</div>
