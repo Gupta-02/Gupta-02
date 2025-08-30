@@ -58,11 +58,12 @@ GitHub Stats
   </table>
 </p>
 
-## 📈 Contribution Activity
-
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta-02&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta-02&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<br>
 
 
 <div align="center">
