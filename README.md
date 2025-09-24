@@ -7,11 +7,23 @@
 </h1> -->
 
 <p align="center">
-  <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20aGupta.gif" height="300" width="800" alt="Ashutosh Jena">
+  <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20Gupta-02.gif" height="300" width="800" alt="Ashutosh Jena">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prathyun Gupta</h1>
 <h3 align="center">A Computer Science Graduate & Open Source Enthusiast</h3>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gupta-02&theme=gruvbox&margin-w=15" alt="Trophies">
+  </a>
+</p>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center"></h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
