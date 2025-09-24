@@ -6,9 +6,15 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="40" style="vertical-align: middle;" />
 </h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Prathyun+Gupta+%F0%9F%91%8B;Web+Developer+%3C%2F%3E;Tech+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20aGupta.gif" height="300" width="800" alt="Ashutosh Jena">
+</p>
+
+<h1 align="center">Hi 👋, I'm Prathyun Gupta</h1>
+<h3 align="center">A Computer Science Graduate & Open Source Enthusiast</h3>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<h3 align="center">A passinoate Software Developer</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center"></h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
