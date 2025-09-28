@@ -126,11 +126,67 @@ GitHub Stats
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gupta-02&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+      Gupta GitRoll Contribution Graph <br>
+  <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
+  </a>
+</p>
+    </td>
+  </tr>
+</table>
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+## 🌐 Connect & Support    
+
+<div align=center>
+
+  ![left](https://github.com/user-attachments/assets/8546fd69-e30e-415d-ad14-9f543b19e347)
+<a href="https://github.com/Gupta-02">
+<img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
+</a>
+<a href="mailto:saiprathyun85@gmail.com">
+<img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/8acb23a2-a55c-482f-a200-6a0115c5cf03" />
+</a>
+<a href="https://github.com/Gupta-02">
+<img width="40" height="40" alt="internet" src="https://github.com/user-attachments/assets/2fd1dbfe-f503-4cbf-b3dc-6a2d63bb87d1" />
+</a>
+<a href="https://discord.gg/MYdZbvR5g">
+<img width="40" height="40" alt="discord" src="https://github.com/user-attachments/assets/330d20c9-8752-4d16-a2f3-c1713bf99ce8" />
+</a>
+<a href="https://www.reddit.com/user/Anonymus1102/">
+<img width="40" height="40" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /> <img src="https://github.com/user-attachments/assets/29882840-9704-4571-9d76-7cad441c44ce" alt="Description of image" style="float:right; margin:0 0 1rem 1rem; max-width:40%; height:auto;" loading="lazy"> <br>
+</a>
+<a href="https://x.com/prathyun333">
+<img width="40" height="40" alt="twitter" src="https://github.com/user-attachments/assets/47d624d3-33e5-4146-a1c8-30ae62b17e4e" />
+</a>
+
+<a href="(https://stackoverflow.com/users/26334360/gupta-440)">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4914c1d1-6742-417e-bd00-9755cdf598af" />
+</a>
+<a href="https://in/CSaiPrathyunGupta">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
+</a>
+
+
+
+  
+   ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+   
+   <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+   <!-- BEGIN YOUTUBE-CARDS -->
+
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0080FF,100:0040FF&height=120&section=footer&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=Gupta-02&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /> 
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
+
+</div>
+
