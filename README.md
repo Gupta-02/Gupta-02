@@ -26,7 +26,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://guptaportfolio.vercel.app/](https://guptaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cspg-portfolio.vercel.app//](https://cspg-portfolio.vercel.app/)
 
 
 - 📫 How to reach me **saiprathyun85@gmail.com**
