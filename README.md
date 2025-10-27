@@ -172,7 +172,10 @@ GitHub Stats
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
 </a>
 
+## Holopin Badges
 
+
+[![An image of @guptaprathyun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guptaprathyun)](https://holopin.io/@guptaprathyun)
 
   
    ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
