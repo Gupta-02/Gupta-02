@@ -1,3 +1,12 @@
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there,%20I%20am%20PrathyunGupta%20🙋‍♀️&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" 
+    width="100%"
+  />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://Gupta-02.io)
 ﻿<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />&nbsp; -->
 <!-- <h1 align="center">
@@ -7,14 +16,18 @@
 </h1> -->
 
 <p align="center">
-  <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20Gupta-02.gif" height="300" width="800" alt="Ashutosh Jena">
+  <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20Gupta-02.gif" height="300" width="800" alt="Prathyun Gupta">
 </p>
 
-<h1 align="center">Hi 👋, I'm Prathyun Gupta</h1>
-<h3 align="center">A Computer Science Graduate & Open Source Enthusiast</h3>
 
 
 
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=00E5FF&center=true&vCenter=true&width=750&lines=Java+%26+DSA+Enthusiast;Aspiring+Engineer;Open+Source+Contributor;Lifelong+Learner" 
+    alt="Typing SVG" 
+  />
+</div>
 
 
 
