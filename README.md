@@ -21,7 +21,11 @@
   <img src="https://github.com/Gupta-02/Gupta-02/blob/main/hey%2Ci'm%20Gupta-02.gif" height="300" width="800" alt="Prathyun Gupta">
 </p>
 
+## 🏅 GitHub Trophies
 
+ 
+![](https://github-trophies.vercel.app/?username=Gupta-02&theme=matrix&margin-w=10&row=1&column=8)
+---
 
 
 <div align="center">
