@@ -181,6 +181,15 @@
 </p>
 
 ---
+### ⭐ Show some love by starring my repositories!
+<p align="center">
+  <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
+</p>
+</div>
+<h4 align="center">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gupta-02&label=Profile%20Views&color=FF3B3B&style=for-the-badge" alt="Profile Views" /> 
