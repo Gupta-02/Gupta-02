@@ -50,7 +50,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://cspg-portfolio.vercel.app//](https://cspg-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cspg.vercel.app/](https://cspg.vercel.app/)
 
 
 - 📫 How to reach me **saiprathyun85@gmail.com**
